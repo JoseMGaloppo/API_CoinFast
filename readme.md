@@ -25,7 +25,7 @@ Este proyecto no es solo una calculadora de divisas; es una implementación de r
 El sistema sigue un modelo de arquitectura monolítica modular, desacoplando la lógica de negocio de las integraciones externas.
 
 ### Diagrama de Contexto (C4 Model - Nivel 1)
-![Diagrama de Contexto](docs/Contexto 1.png)
+![Diagrama de Contexto](docs/Contexto1.svg)
 
 **Flujo de Datos:**
 1.  **Clientes (Web/Mobile):** Solicitan una conversión de criptomonedas (ej. BTC a USD).
